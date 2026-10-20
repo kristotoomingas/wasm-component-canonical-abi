@@ -1,0 +1,11 @@
+{
+  "shard_index": 32,
+  "suite": "wasm-component-canonical-abi",
+  "standard": "W3C WebAssembly Component Model Canonical ABI",
+  "lane_anchor_u48": "0x536A21493C4D",
+  "companion_suite": "https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier",
+  "companion_schema_digest": "sha256-acb7d55ad83a7ac8",
+  "byte_order": "little",
+  "next_shard": "shards/spec_33.json",
+  "epoch_beacon": "http://157.151.170.68:11449/v1/conformance/epoch?suite=wasm-component-canonical-abi&s=32"
+}
